@@ -1,5 +1,4 @@
 com/xy/responses/NormalOcrResponse$Words.class
-com/xy/responses/TableOcrResponse$Result.class
 com/xy/utils/image/ImageEncode.class
 com/xy/Loader$1.class
 com/xy/Loader.class
@@ -7,7 +6,6 @@ com/xy/responses/NormalOcrResponse$Probability.class
 com/xy/requests/OcrReq.class
 com/xy/responses/NormalOcrResponse.class
 com/xy/OcrType.class
-com/xy/responses/TableOcrResponse.class
 com/xy/responses/AccessTokenResponse.class
 com/xy/requests/OrcBasicReq.class
 com/xy/requests/OcrNormalReq.class

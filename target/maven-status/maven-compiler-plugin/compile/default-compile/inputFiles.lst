@@ -1,7 +1,6 @@
 /Users/xuyi/repos/ocr-postion/src/main/java/com/xy/OcrType.java
 /Users/xuyi/repos/ocr-postion/src/main/java/com/xy/utils/image/ImageEncode.java
 /Users/xuyi/repos/ocr-postion/src/main/java/com/xy/responses/AccessTokenResponse.java
-/Users/xuyi/repos/ocr-postion/src/main/java/com/xy/responses/TableOcrResponse.java
 /Users/xuyi/repos/ocr-postion/src/main/java/com/xy/utils/position/PositionUtil.java
 /Users/xuyi/repos/ocr-postion/src/main/java/com/xy/Loader.java
 /Users/xuyi/repos/ocr-postion/src/main/java/com/xy/responses/NormalOcrResponse.java
