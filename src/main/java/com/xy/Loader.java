@@ -9,8 +9,8 @@ public class Loader {
 
     public static void main(String[] args) throws Exception {
         if (args.length != 3) {
-            System.out.println("please enter 2 parameters: image url & type[basic/table] & comment");
-            System.out.println("example: java -jar orc-pro.jar /Users/xuyi/Desktop/e.png basic comment");
+            System.out.println("please enter 3 parameters: image url & type[basic/table] & comment");
+            System.out.println("example: java -jar orc-pro.jar /Users/xy/Desktop/e.png basic comment");
             return;
         }
         String path = args[0];
