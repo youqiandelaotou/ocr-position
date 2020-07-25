@@ -6,4 +6,4 @@
 # how to use
 1. install java
 2. prepare picture
-3. execute java -jar ocr-pro-1.0-SNAPSHOT.jar /Users/xy/Desktop/e.png normal comment
+3. execute `java -jar ocr-pro-1.0-SNAPSHOT.jar /Users/xy/Desktop/e.png normal comment`
