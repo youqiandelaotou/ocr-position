@@ -1,0 +1,7 @@
+2020-07-25  22:18:12.962 [main] INFO  com.xy.requests.OrcBasicReq - refresh accessToken: 24.4da2184191e8ba6b80f162cf2d12a053.2592000.1598278693.282335-21561114
+2020-07-25  22:18:15.637 [main] INFO  com.xy.requests.OcrTableReq - TableOcrResponse: 
+{"error_code":6,"error_msg":"No permission to access data"}
+2020-07-25  22:20:13.247 [main] INFO  com.xy.requests.OrcBasicReq - refresh accessToken: 24.28b1acdc5001ba01ef043784e4090aa0.2592000.1598278814.282335-21561114
+2020-07-25  22:20:16.939 [main] INFO  com.xy.requests.OcrTableReq - TableOcrResponse: {"log_id":1595686818107766,"error_msg":"is_sync param is not true nor false. it can be set empty or not send to server","error_code":216100}
+2020-07-25  22:20:37.971 [main] INFO  com.xy.requests.OrcBasicReq - refresh accessToken: 24.12e8ac88ff3d8da762d65f646876d30d.2592000.1598278839.282335-21561114
+2020-07-25  22:20:43.079 [main] INFO  com.xy.requests.OcrTableReq - TableOcrResponse: {"result":{"result_data":"http://bj.bcebos.com/v1/ai-edgecloud/ADE638F989724C159A7C71301C00322B.xls?authorization=bce-auth-v1%2Ff86a2044998643b5abc89b59158bad6d%2F2020-07-25T14%3A20%3A43Z%2F172800%2F%2F018bd6677c832dd15cd4410685912a446689df8eef6a1f9ebe25d18b203dfb49","ret_msg":"已完成","percent":100,"ret_code":3},"log_id":1595686842955866}
