@@ -6,10 +6,12 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="ocr-position" />
         <module name="ocr-pro" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
+      <module name="ocr-position" target="1.5" />
       <module name="ocr-pro" target="1.5" />
     </bytecodeTargetLevel>
   </component>

@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/ocr-position.iml" filepath="$PROJECT_DIR$/ocr-position.iml" />
       <module fileurl="file://$PROJECT_DIR$/ocr-pro.iml" filepath="$PROJECT_DIR$/ocr-pro.iml" />
     </modules>
   </component>
