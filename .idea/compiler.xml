@@ -11,7 +11,7 @@
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="ocr-position" target="1.5" />
+      <module name="ocr-position" target="6" />
       <module name="ocr-pro" target="1.5" />
     </bytecodeTargetLevel>
   </component>
